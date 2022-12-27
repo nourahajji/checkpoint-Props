@@ -1,38 +1,75 @@
-.App {
-  text-align: center;
+#gal{
+    margin-top: -262px;
+    margin-left: 850px;
 }
+#bvb{
+ 
+   
+    margin-top: -50px;
+    height: 64px;
+    color: rgb(75, 43, 43);
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#blom{
+    width: 1354px;
+    height: 414px;
+    margin-top: -21px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.malou{
+    margin-left: 500px;
+    margin-top: 10px;
 }
+.blak {
+    padding-left: 50px;
+    font-weight: bold;
 
-.App-link {
-  color: #61dafb;
+
 }
+.blak a{
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(112, 109, 109);
+ 
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.nav-link {
+    padding: 14px;
+
+}
+.blak a:hover{
+    color:  rgb(75, 43, 43);
+    cursor: pointer;
+}
+#bob{
+    margin-top: 134px;
+    margin-left: 78px;
+}
+#miki{
+    margin-top: -50px;
+    margin-left: 50px;
+}
+#brown{
+    margin-left: 106px;
+} 
+#card{    margin-left: 125px;}
+#like{
+    margin-left: 158px;
+}
+#hard{
+    margin-left: 500px;
+    margin-top: -226px;
+}
+#box{
+    margin-left:500px ;
+    margin-top: -28px;
+}
+#pink{
+    margin-left: 94px;
+}
+#red{
+    margin-left: 919px;
+    
+}
+#white{
+    margin-left: 919px;
 }
